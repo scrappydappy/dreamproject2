@@ -1,2 +1,2 @@
 # dreamproject2
-Build personalized recommendation system
+Build _personalized_ movie recommendation algorithm based on **user tastes**
